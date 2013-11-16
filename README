@@ -1,12 +1,14 @@
 
-Numerically Solving Planar DC Problems using Resistor Meshes, Matrix Math and Python
-------------------------------------------------------------------------------------
+Numerically Solving Planar DC Problems
+using Resistor Meshes, Matrix Math and Python
+---------------------------------------------
 
-Learn how to solve planar dc problems using numerical methods. Including an example
-problem that would be very hard to solve analytically but can be solved easily using
-a relatively small python program. The results are verified with a simple experiment.
-This video also includes a very brief introduction to the bits and pieces of linear
-algebra that are needed for solving this kind of problems.
+Learn how to solve planar dc problems using numerical methods. Including an
+example problem that would be very hard to solve analytically but can be solved
+easily using a relatively small python program. The results are verified with a
+simple experiment.  This video also includes a very brief introduction to the
+bits and pieces of linear algebra that are needed for solving this kind of
+problems.
 
 Watch on Youtube:
 http://youtu.be/60uI8eE1z0I
